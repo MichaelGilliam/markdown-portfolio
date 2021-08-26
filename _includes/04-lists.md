@@ -1,3 +1,3 @@
-- Pizza
-- Gaming
-- Car Enthusiast
+- **Pizza**
+- *Gaming*
+- __Car Enthusiast__
