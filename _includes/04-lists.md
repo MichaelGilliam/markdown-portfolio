@@ -1,4 +1,3 @@
-### These are my favorite things to do / eat.
 - Pizza
 - Gaming
 - Car Enthusiast
